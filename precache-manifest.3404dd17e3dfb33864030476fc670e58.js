@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/react-booklibrary-app/static/media/bookmark-solid.4ab98fb2.svg"
   },
   {
-    "revision": "8db6cea7ba048d30e5be",
+    "revision": "36d91fcfc9921d665489",
     "url": "/react-booklibrary-app/static/css/main.5f82e01c.chunk.css"
   },
   {
-    "revision": "4de2e6c85d0bbb3cf5e0",
-    "url": "/react-booklibrary-app/static/js/1.4de2e6c8.chunk.js"
+    "revision": "fad1e1fa50f1c7ec8a22",
+    "url": "/react-booklibrary-app/static/js/1.fad1e1fa.chunk.js"
   },
   {
     "revision": "bc21a0b59f6bc07a1d05",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/react-booklibrary-app/static/media/book-reader-solid.336c891a.svg"
   },
   {
-    "revision": "8db6cea7ba048d30e5be",
-    "url": "/react-booklibrary-app/static/js/main.8db6cea7.chunk.js"
+    "revision": "36d91fcfc9921d665489",
+    "url": "/react-booklibrary-app/static/js/main.36d91fcf.chunk.js"
   },
   {
     "revision": "358e77fa41d90cba72757585c94b794a",
@@ -32,15 +32,15 @@ self.__precacheManifest = [
     "url": "/react-booklibrary-app/static/media/arrow-drop-down.9d4e3f36.svg"
   },
   {
-    "revision": "20e8847d1eb7759c19b0e30beb8849cf",
-    "url": "/react-booklibrary-app/static/media/arrow-back.20e8847d.svg"
-  },
-  {
     "revision": "75d390e5eabc3254418e950df631389b",
     "url": "/react-booklibrary-app/static/media/add.75d390e5.svg"
   },
   {
-    "revision": "9bd2ba4347f2106f59ab2e13b439f350",
+    "revision": "20e8847d1eb7759c19b0e30beb8849cf",
+    "url": "/react-booklibrary-app/static/media/arrow-back.20e8847d.svg"
+  },
+  {
+    "revision": "1c42e29510812fb5333675790e185d34",
     "url": "/react-booklibrary-app/index.html"
   }
 ];
