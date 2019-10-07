@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/react-booklibrary-app/static/media/arrow-drop-down.9d4e3f36.svg"
   },
   {
-    "revision": "75d390e5eabc3254418e950df631389b",
-    "url": "/react-booklibrary-app/static/media/add.75d390e5.svg"
-  },
-  {
     "revision": "20e8847d1eb7759c19b0e30beb8849cf",
     "url": "/react-booklibrary-app/static/media/arrow-back.20e8847d.svg"
+  },
+  {
+    "revision": "75d390e5eabc3254418e950df631389b",
+    "url": "/react-booklibrary-app/static/media/add.75d390e5.svg"
   },
   {
     "revision": "9bd2ba4347f2106f59ab2e13b439f350",
